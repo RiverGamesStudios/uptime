@@ -22,7 +22,7 @@
     "url": "https://wiki.rivergames.ca",
     "icon": "https://icons.duckduckgo.com/ip3/wiki.rivergames.ca.ico",
     "slug": "riverpedia",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -33,7 +33,9 @@
     "timeWeek": 2117,
     "timeMonth": 2140,
     "timeYear": 2122,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2026-04-12": 0
+    }
   },
   {
     "name": "River Blogs",
@@ -52,7 +54,7 @@
     "timeMonth": 785,
     "timeYear": 827,
     "dailyMinutesDown": {
-      "2026-04-12": 123,
+      "2026-04-12": 1176,
       "2026-04-11": 1440,
       "2026-04-10": 1440,
       "2026-04-09": 1440,
